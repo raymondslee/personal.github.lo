@@ -1,2 +1,2 @@
-# personal.github.lo/index2.html
+# personal.github.lo/
 Raymond CV
